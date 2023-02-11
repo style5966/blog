@@ -1,0 +1,7 @@
+[submodule "themes/FixIt"]
+	path = themes/FixIt
+	url = https://github.com/hugo-fixit/FixIt.git
+[submodule "style5966.github.io"]
+	path = style5966.github.io
+	url = https://github.com/style5966/style5966.github.io.git
+	branch = main
